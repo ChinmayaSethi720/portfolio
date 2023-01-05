@@ -9,11 +9,12 @@
     width: 20%;
     float: left;
     min-width: 180px;
+    position: fixed;
 }
 
 .main-page{
     background-image: linear-gradient(#004f5a,#000e2e);
-    height:757px;
+    height:auto;
     float: right;
     color: rgb(255, 255, 255);
     width: 80%;
